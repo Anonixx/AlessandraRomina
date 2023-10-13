@@ -53,11 +53,12 @@ nav a {
 }
 
 .product {
-    background-color: #fff;
+    background-color: #333;
     border: 1px solid #ddd;
     padding: 1rem;
     margin: 1rem;
     text-align: center;
+    color: #ddd;
 }
 
 .product img {
