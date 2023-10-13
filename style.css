@@ -41,10 +41,15 @@ nav a {
 
 /* Style the featured products section */
 .featured-products {
-    display: flex;
-    flex-wrap: wrap;
+    display: inline-block;
+    flex-wrap: flex;
     justify-content: space-around;
     padding: 2rem;
+    
+}
+
+.featured-products-div {
+    display: inline-block;
 }
 
 .product {
